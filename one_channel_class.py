@@ -10,7 +10,7 @@ import isodate
 load_dotenv(find_dotenv())
 API_KEY = os.getenv('API_KEY')
 DUMMY_URL_ONE = 'https://www.youtube.com/@ExtremeCode'
-DUMMY_URL_TEST = 'https://www.youtube.com/@ExtremeCode'
+DUMMY_URL_TEST = 'https://www.youtube.com/@ryndych123'
 
 
 class VideoDataOne:
